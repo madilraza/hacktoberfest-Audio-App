@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+# HacktoberFest-Audio-App 
 
-You can use the [editor on GitHub](https://github.com/madilraza/hacktoberfest-Audio-App/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## hacktober audio app with pdf to audio text to audio and doc to audio ppt to audio functionalty . just put your name and data on the app and commit the changes push the pull request after merging you can see your name and data will be pronounced in audio with python audio and pdf libraries for hacktoberfest pull and merge easy temp
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
